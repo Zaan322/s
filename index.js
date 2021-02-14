@@ -45,7 +45,7 @@ lolcatjs.options.colors = true;
 
 const start = async (tobz = new Client()) => {
         console.log('------------------------------------------------')
-        lolcatjs.fromString(color(figlet.textSync('ELAINA BOT', { horizontalLayout: 'full' })))
+        lolcatjs.fromString(color(figlet.textSync('ZAN BOTZ', { horizontalLayout: 'full' })))
         console.log('------------------------------------------------')
         lolcatjs.fromString('[DEV] TOBZ')
         lolcatjs.fromString('[SERVER] Server Started!')
