@@ -46,6 +46,7 @@
     "remove.bg": "^1.3.0",
     "request": "^2.88.2",
     "sastrawijs": "^1.0.3",
+    "sharp": "^0.27.2",
     "text2png": "^2.3.0",
     "translatte": "^2.5.8",
     "video-crop": "^1.1.0",
